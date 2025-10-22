@@ -1,6 +1,12 @@
 # FastAPI Crash Course
 
-This repository contains all the files written while completing the following course:
+This repository contains all the files written while completing the following courses:
+    FastAPI Crash Course 2025: Python Tutorial for Absolute Beginners
     <https://www.youtube.com/watch?v=nWWPlEO0he8>
+    FastAPI SQLAlchemy Tutorial 2025 — Build a REST API with SQL
+    <https://www.youtube.com/watch?v=xq1Snezb1rs&list=PLEpRcxOmTFlOy8CjuwQ0CGJp1fTCgQcHB&index=2>
+    Secure FastAPI API with JWT (OAuth2) – Python Token Authentication Tutorial
+    <https://www.youtube.com/watch?v=KxR3OONvDvo&list=PLEpRcxOmTFlOy8CjuwQ0CGJp1fTCgQcHB&index=3>
+    Decorators in Python: The Complete Guide<https://www.youtube.com/watch?v=BeNH2WdETYc>
 
-This course is part of my preparations for CS50's final project.
+These courses are part of my preparations for CS50's final project.
