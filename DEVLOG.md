@@ -1,8 +1,8 @@
 # DEVLOG
 
-## Wednesday October 22, 2025
+## Wednesday, October 22, 2025
 
-    Session 1:
+Session 1:
 
     Learned what endpoints are and that the HTTP request codes correspond to CRUD and @app.get. 
     Still have an issue with VSCode and the libraries. Will check this later on.
@@ -10,7 +10,7 @@
     
     Video paused at 12:29
 
-    Session 2:
+Session 2:
 
     Learned about HTTPException, Path, @app.post, @app.put, @app.delete and using 'status_code' 
     on the decorator. Also, using query parameters.
@@ -20,7 +20,7 @@
 
     Will do a tutorial on Python decorators.
 
-    Session 3:
+Session 3:
 
     Finished decorator tutorial. Learned that decorators are a way to change
     the behaviour of functions without altering the original code.
@@ -33,3 +33,12 @@
     
     Still a bit iffy on understanding it deeply, but now I know there's a programming
     pattern when I would need to use a decorator function and pass down some arguments.
+
+## Thursday, October 23, 2025
+
+Session 1:
+
+    Started with Async tutorial.
+    Finished tutorial. I'm still confused, not proficient with Async functions.
+    Prompted Gemini (LLM by Google) to create 10 exercises to understand them better along
+    with requests, aiohttp and, of course, asyncio.
