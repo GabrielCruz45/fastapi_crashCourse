@@ -1,6 +1,7 @@
 # FastAPI Crash Course
 
 This repository contains all the files written while completing the following courses:
+
     1. FastAPI Crash Course 2025: Python Tutorial for Absolute Beginners
     <https://www.youtube.com/watch?v=nWWPlEO0he8>
 
@@ -17,3 +18,7 @@ This repository contains all the files written while completing the following co
     <https://www.youtube.com/watch?v=ngXbyui-weA>
 
 These courses are part of my preparations for CS50's final project.
+
+Note: The fastapi_auth/app.py contains system configuration variables. 
+These are practice files, in a 'true' development environment the variables would be hidden in a .env file.
+In a true production environment, the host environment or a dedicated secret management service would be used.
